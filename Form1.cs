@@ -66,7 +66,6 @@ namespace RidiciStruktury07
                             listBox1.Items.Add(nc);
 
                         }
-
                         bool obsahuje = false;
                         for (int i = 0; i < listBox1.Items.Count && !obsahuje; i++)
                         {
